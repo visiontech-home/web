@@ -1793,6 +1793,19 @@ body {
     width: 100% !important;
   }
 }
+.cid-rePQYpx8SC {
+  background: #ffffff;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+.cid-rePQYpx8SC .video-block {
+  margin: auto;
+}
+@media (max-width: 768px) {
+  .cid-rePQYpx8SC .video-block {
+    width: 100% !important;
+  }
+}
 .cid-rdQ2F6NtHG {
   padding-top: 30px;
   padding-bottom: 0px;
