@@ -42,7 +42,11 @@
     "cookiesAlert": "",
     "gdpr": "",
     "google-analytics": "",
-    "siteUrl": "undefined"
+    "siteUrl": "https://visiontechsmarthome.in",
+    "robotsText": "User-agent: *\nDisallow: /cgi-bin\nDisallow: /wp-admin\n\nsitemap: https://visiontechsmarthome.in/sitemap.xml\n\n",
+    "robotsSwitcher": "on",
+    "sitemapSwitcherAuto": "",
+    "sitemapSwitcher": "on"
   },
   "pages": {
     "index.html": {
